@@ -3,6 +3,7 @@
 ## 项目经历一
 **_仓储物流机器人_**
 两种类型的机器人，一种负责搬运货物，一种负责将货物放上货架。
+
 1.搬运机器人
 
 ![搬运者](https://github.com/ArmstrongWall/Resume/blob/master/1.png)
@@ -18,6 +19,7 @@
 ## 项目经历二
 **_建图机器人_**
 使用LSD-SLAM建立环境的半稠密点云地图
+
 1.[提取车道线视频](http://v.youku.com/v_show/id_XMzA4Nzc4MDM0MA==.html?spm=a2h3j.8428770.3416059.1) 
 
 2.[室内SLAM视频](http://v.youku.com/v_show/id_XMzA4NzczNjQxMg==.html?spm=a2h3j.8428770.3416059.1) 
