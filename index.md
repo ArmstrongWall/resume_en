@@ -4,4 +4,23 @@
 **_仓储物流机器人_**
 
 1.搬运机器人
+
 ![搬运者](https://github.com/ArmstrongWall/Resume/blob/master/1.png)
+![搬运者实际](https://github.com/ArmstrongWall/Resume/blob/master/2.png)
+
+2.叉车机器人
+
+![叉车](https://github.com/ArmstrongWall/Resume/blob/master/3.png)
+![叉车](https://github.com/ArmstrongWall/Resume/blob/master/4.png)
+
+[叉车巡线视频](http://v.youku.com/v_show/id_XMzA4NzcwMDE2NA==.html?spm=a2h3j.8428770.3416059.1) 
+
+## 项目经历二
+**_建图机器人_**
+
+[室内SLAM](http://v.youku.com/v_show/id_XMzA4NzczNjQxMg==.html?spm=a2h3j.8428770.3416059.1) 
+
+[室内SLAM地图](http://v.youku.com/v_show/id_XMzA4NzczNzk3Ng==.html?spm=a2h3j.8428770.3416059.1) 
+
+[室外SLAM地图](http://v.youku.com/v_show/id_XMzA4NzczODgyOA==.html?spm=a2h3j.8428770.3416059.1)
+
