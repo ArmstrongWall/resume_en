@@ -3,7 +3,8 @@
 **_2013全国大学生飞思卡尔智能车竞赛_**
 
 智能车
-![车](https://github.com/ArmstrongWall/slam/blob/master/8.jpg)
+
+![车](https://github.com/ArmstrongWall/slam/blob/master/gaitubao_com_15080828422999.jpg)
 ## [决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
 
 # 项目经历二
