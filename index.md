@@ -1,6 +1,17 @@
 # 汪自强
+# 项目经历一
+**_2013全国大学生飞思卡尔智能车竞赛_**
 
-## 项目经历一
+智能车
+![车](https://github.com/ArmstrongWall/Resume/blob/master/freescale.jpg)
+## [决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
+
+# 项目经历二
+**_2016Robomaster机甲大师赛_**
+![车](https://github.com/ArmstrongWall/Resume/blob/master/robomaster.jpg)
+## [比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
+
+## 项目经历三
 **_仓储物流机器人_**
 两种类型的机器人，一种负责搬运货物，一种负责将货物放上货架。
 
@@ -16,7 +27,7 @@
 
 [叉车巡线视频](http://v.youku.com/v_show/id_XMzA4NzcwMDE2NA==.html?spm=a2h3j.8428770.3416059.1) 
 
-## 项目经历二
+## 项目经历四
 **_建图机器人_**
 使用LSD-SLAM建立环境的半稠密点云地图
 
