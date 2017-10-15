@@ -4,3 +4,4 @@
 **_仓储物流机器人_**
 
 1.搬运机器人
+![搬运者](https://github.com/ArmstrongWall/Resume/1.png)
