@@ -7,11 +7,15 @@
 ![车](https://github.com/ArmstrongWall/slam/blob/master/gaitubao_com_15080828422999.jpg)
 ## [决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
 
+
+
 # 项目经历二
 **_2016Robomaster机甲大师赛_**
 
 ![车](https://github.com/ArmstrongWall/Resume/blob/master/6.jpg)
 ## [比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
+
+
 
 ## 项目经历三
 **_仓储物流机器人_**
@@ -28,6 +32,8 @@
 ![叉车](https://github.com/ArmstrongWall/Resume/blob/master/4.png)
 
 [叉车巡线视频](http://v.youku.com/v_show/id_XMzA4NzcwMDE2NA==.html?spm=a2h3j.8428770.3416059.1) 
+
+
 
 ## 项目经历四
 **_建图机器人_**
