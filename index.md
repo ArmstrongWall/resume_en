@@ -13,7 +13,8 @@
 **_2016Robomaster机甲大师赛_**
 
 麦克纳姆轮机器人
-![车](https://github.com/ArmstrongWall/Resume/blob/master/6.jpg)
+
+![车](https://github.com/ArmstrongWall/slam/blob/master/gaitubao_com_15080830969931.jpg)
 ## [比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
 
 
