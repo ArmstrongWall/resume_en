@@ -32,4 +32,5 @@
 ### **简介**：
 #### 机器人五对五对抗打击，两轴云台，四麦克纳姆轮全向驱动。
 ![车](picture/6.jpg)
-#### **成果展示：**[比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
+### **成果展示：**
+#### [比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
