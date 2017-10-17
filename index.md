@@ -2,6 +2,7 @@
 
 ## 项目经历一 **_建图机器人_**
 使用四轮机器人底盘，开发基于lsd-slam的地图构建验证平台，用于自动构建无人驾驶导航地图，编写机器人的视觉建图、定位、运动控制软件  
+
 ![机器人](picture/5.jpg)
 
 1.[提取车道线视频](http://v.youku.com/v_show/id_XMzA4Nzc4MDM0MA==.html?spm=a2h3j.8428770.3416059.1)　　
@@ -14,7 +15,24 @@
 
 5.室外地图![室外地图](picture/lane.jpg)
 
-# 项目经历一
+# 项目经历二　**_仓储物流机器人_**
+
+仓储叉车机器人商用产品，在嵌入式平台上基于ROS开发定位功能，得到在已有仓库地图中的位置信息，然后CPU通过CAN总线控制电机动作，完成机器人的导航任务。
+
+1.Freight（搬运机器人）
+
+![搬运者](picture/1.png)
+![搬运者实际](picture/2.png)
+
+2.叉车机器人
+
+![叉车](picture//3.png)
+![叉车](picture//4.png)
+
+[叉车巡线视频](http://v.youku.com/v_show/id_XMzA4NzcwMDE2NA==.html?spm=a2h3j.8428770.3416059.1) 
+
+
+
 **_2013全国大学生飞思卡尔智能车竞赛_**
 
 智能车
@@ -35,20 +53,7 @@
 
 
 ## 项目经历三
-**_仓储物流机器人_**
-两种类型的机器人，一种负责搬运货物，一种负责将货物放上货架。
 
-1.搬运机器人
-
-![搬运者](1.png)
-![搬运者实际](2.png)
-
-2.叉车机器人
-
-![叉车](https://github.com/ArmstrongWall/Resume/blob/master/3.png)
-![叉车](https://github.com/ArmstrongWall/Resume/blob/master/4.png)
-
-[叉车巡线视频](http://v.youku.com/v_show/id_XMzA4NzcwMDE2NA==.html?spm=a2h3j.8428770.3416059.1) 
 
 
 
