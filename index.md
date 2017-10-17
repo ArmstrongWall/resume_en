@@ -37,4 +37,4 @@
 ![车](picture/6.jpg)
 ### **成果展示：**
 #### 1.[比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
-#### ２.获得华东赛区级二等奖
+#### 2.获得华东赛区级二等奖
