@@ -1,4 +1,19 @@
 # 汪自强
+
+## 项目经历一
+**_建图机器人_**
+使用LSD-SLAM建立环境的半稠密点云地图
+
+1.[提取车道线视频](http://v.youku.com/v_show/id_XMzA4Nzc4MDM0MA==.html?spm=a2h3j.8428770.3416059.1) 
+
+2.[室内SLAM视频](http://v.youku.com/v_show/id_XMzA4NzczNjQxMg==.html?spm=a2h3j.8428770.3416059.1) 
+
+3.[室内SLAM地图视频](http://v.youku.com/v_show/id_XMzA4NzczNzk3Ng==.html?spm=a2h3j.8428770.3416059.1) 
+
+4.[室外SLAM地图视频](http://v.youku.com/v_show/id_XMzA4NzczODgyOA==.html?spm=a2h3j.8428770.3416059.1)
+
+5.室外地图![室外地图](https://github.com/ArmstrongWall/Resume/blob/master/lane.jpg)
+
 # 项目经历一
 **_2013全国大学生飞思卡尔智能车竞赛_**
 
@@ -26,7 +41,7 @@
 1.搬运机器人
 
 ![搬运者](1.png)
-![搬运者实际](https://github.com/ArmstrongWall/Resume/blob/master/2.png)
+![搬运者实际](2.png)
 
 2.叉车机器人
 
@@ -37,16 +52,4 @@
 
 
 
-## 项目经历四
-**_建图机器人_**
-使用LSD-SLAM建立环境的半稠密点云地图
 
-1.[提取车道线视频](http://v.youku.com/v_show/id_XMzA4Nzc4MDM0MA==.html?spm=a2h3j.8428770.3416059.1) 
-
-2.[室内SLAM视频](http://v.youku.com/v_show/id_XMzA4NzczNjQxMg==.html?spm=a2h3j.8428770.3416059.1) 
-
-3.[室内SLAM地图视频](http://v.youku.com/v_show/id_XMzA4NzczNzk3Ng==.html?spm=a2h3j.8428770.3416059.1) 
-
-4.[室外SLAM地图视频](http://v.youku.com/v_show/id_XMzA4NzczODgyOA==.html?spm=a2h3j.8428770.3416059.1)
-
-5.室外地图![室外地图](https://github.com/ArmstrongWall/Resume/blob/master/lane.jpg)
