@@ -27,11 +27,11 @@
 #### 智能车使用数字摄像头采集道路信息，飞思卡尔K60单片机提取路径并控制舵机转向，电机前驱。
 ![车](picture/7.jpg)
 ### **成果展示：**
-#### [决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
+#### 1.[决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
 
 # 竞赛经历二　**_2016Robomaster机甲大师赛_**
 ### **简介**：
 #### 机器人五对五对抗打击，两轴云台，四麦克纳姆轮全向驱动。
 ![车](picture/6.jpg)
 ### **成果展示：**
-#### [比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
+#### 1.[比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
