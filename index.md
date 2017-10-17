@@ -12,7 +12,7 @@
 
 4.[室外SLAM地图视频](http://v.youku.com/v_show/id_XMzA4NzczODgyOA==.html?spm=a2h3j.8428770.3416059.1)
 
-5.室外地图![室外地图](https://github.com/ArmstrongWall/Resume/blob/master/lane.jpg)
+5.室外地图![室外地图](picture/8.jpg)
 
 # 项目经历一
 **_2013全国大学生飞思卡尔智能车竞赛_**
