@@ -1,5 +1,5 @@
 # 汪自强
-## 项目经历一 **_建图机器人_**
+## 项目经历一 **_建图构建机器人_**
 ### **简介：**
 #### 使用四轮机器人底盘，开发基于lsd-slam的地图构建验证平台，用于自动构建无人驾驶导航地图，编写机器人的视觉建图、定位、运动控制软件  
 ![机器人](picture/5.jpg)
@@ -22,25 +22,11 @@
 1.[叉车巡线视频](http://v.youku.com/v_show/id_XMzA4NzcwMDE2NA==.html?spm=a2h3j.8428770.3416059.1)
 
 ## 竞赛经历一　**_2013全国大学生飞思卡尔智能车竞赛_**
-### **简介**： 智能车使用数字摄像头采集道路信息，飞思卡尔K60单片机提取路径并控制舵机转向，电机前驱。
-![车](https://github.com/ArmstrongWall/slam/blob/master/gaitubao_com_15080828422999.jpg)
-### **成果展示：** [决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
+### **简介**：智能车使用数字摄像头采集道路信息，飞思卡尔K60单片机提取路径并控制舵机转向，电机前驱。
+![车](picture/７.jpg)
+### **成果展示：**[决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
 
-
-
-# 项目经历二
-**_2016Robomaster机甲大师赛_**
-
-麦克纳姆轮机器人
-
-![车](https://github.com/ArmstrongWall/slam/blob/master/gaitubao_com_15080830969931.jpg)
-## [比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
-
-
-
-## 项目经历三
-
-
-
-
-
+# 竞赛经历二　**_2016Robomaster机甲大师赛_**
+### **简介**：机器人五对五对抗打击，两轴云台，四麦克纳姆轮全向驱动。
+![车](picture/６.jpg)
+### **成果展示：**[比赛视频](http://v.youku.com/v_show/id_XMzA4Nzg1NjE4OA==.html?spm=a2h3j.8428770.3416059.1) 
