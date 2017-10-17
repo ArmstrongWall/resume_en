@@ -4,7 +4,7 @@
 
 智能车
 
-![车](https://github.com/ArmstrongWall/slam/blob/master/gaitubao_com_15080828422999.jpg)
+![车](slam/gaitubao_com_15080828422999.jpg)
 ## [决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
 
 
