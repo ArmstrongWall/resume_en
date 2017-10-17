@@ -2,7 +2,8 @@
 
 ## 项目经历一
 **_建图机器人_**
-使用LSD-SLAM建立环境的半稠密点云地图
+使用机器人底盘，开发基于lsd-slam的地图构建验证平台，用于自动构建无人驾驶导航地图，编写机器人的视觉建图、定位、运动控制软件
+![机器人](picture/５.jpg)
 
 1.[提取车道线视频](http://v.youku.com/v_show/id_XMzA4Nzc4MDM0MA==.html?spm=a2h3j.8428770.3416059.1) 
 
@@ -12,7 +13,7 @@
 
 4.[室外SLAM地图视频](http://v.youku.com/v_show/id_XMzA4NzczODgyOA==.html?spm=a2h3j.8428770.3416059.1)
 
-5.室外地图![室外地图](picture/8.jpg)
+5.室外地图![室外地图](picture/lane.jpg)
 
 # 项目经历一
 **_2013全国大学生飞思卡尔智能车竞赛_**
