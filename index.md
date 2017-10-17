@@ -28,7 +28,8 @@
 ![车](picture/7.jpg)
 ### **成果展示：**
 #### 1.[决赛比赛视频](http://v.youku.com/v_show/id_XMzA4NzgzODg4MA==.html?spm=a2h3j.8428770.3416059.1) 
-#### ２.获得国家级一等奖，摄像头组全国第四名　![车](picture/10.jpg)
+#### ２.获得国家级一等奖，摄像头组全国第四名　
+![车](picture/10.jpg)
 
 ## 竞赛经历二　**_2016Robomaster机甲大师赛_**
 ### **简介**：
