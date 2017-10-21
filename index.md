@@ -18,7 +18,7 @@
 ![搬运者实际](picture/2.png)
 #### 2.Fretch（叉车机器人），在货架附近活动，负责将到来的Freight上的货物搬运到货架上。
 ![叉车](picture/3.png)
-![叉车](picture/4.png)
+![叉车](picture/4.jpg)
 ### **成果展示：**
 #### 1.[叉车巡线视频](http://v.youku.com/v_show/id_XMzA4NzcwMDE2NA==.html?spm=a2h3j.8428770.3416059.1)
 
